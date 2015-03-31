@@ -148,6 +148,7 @@ void TicTac::player1(int pos)
 		}
 		default:{
 			cout << endl << " Invalid Move!!!" << endl;
+		
 		}
 		}
 	}
@@ -207,6 +208,7 @@ void TicTac::player2(int pos)
 		}
 		default:{
 			cout << endl << " Invalid Move!!!" << endl;
+		
 		}
 		}
 	}
