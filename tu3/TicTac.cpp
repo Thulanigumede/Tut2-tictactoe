@@ -217,4 +217,5 @@ bool TicTac::move(int row, int col)
 {
 	if (board[row][col] == 'X' || board[row][col] == 'O') { return false; }
 	else { return true; }
+
 }
